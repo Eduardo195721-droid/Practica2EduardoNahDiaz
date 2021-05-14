@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica2EduardoNahDiaz</string>
+    <string name="alta_usuario">Alta Usuario</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="datos_recibidos">Datos Recibidos</string>
+    <string name="editar_campos">Editar Campos</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="email">Email</string>
+    <string name="twitter">Twitter</string>
+</resources>
